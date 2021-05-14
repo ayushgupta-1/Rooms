@@ -57,7 +57,7 @@ class _CreateMeetingState extends State<CreateMeeting> {
               height: 50,
               decoration: BoxDecoration(
                   gradient: LinearGradient(
-                colors: GradientColors.facebookMessenger,
+                colors: GradientColors.cherry,
               )),
               child: Center(
                 child: Text(
