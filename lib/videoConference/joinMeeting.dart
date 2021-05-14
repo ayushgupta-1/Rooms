@@ -145,7 +145,7 @@ class _JoinMeetingState extends State<JoinMeeting> {
                   height: 64,
                   decoration: BoxDecoration(
                       gradient: LinearGradient(
-                    colors: GradientColors.beautifulGreen,
+                    colors: GradientColors.cherry,
                   )),
                   child: Center(
                     child: Text(
