@@ -3,7 +3,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_gradient_colors/flutter_gradient_colors.dart';
 import 'package:jitsi_meet/feature_flag/feature_flag.dart';
-import 'package:jitsi_meet/feature_flag/feature_flag_enum.dart';
 import 'package:zoom_app/variables.dart';
 import 'package:jitsi_meet/jitsi_meet.dart';
 import 'dart:io';
