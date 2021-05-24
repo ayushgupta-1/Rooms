@@ -47,6 +47,14 @@ class _VideoConferenceScreenState extends State<VideoConferenceScreen>
           controller: tabController,
           tabs: [buildTab("Join Meeting"), buildTab("Create Meeting")],
         ),
+        flexibleSpace: Container(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              colors: [Colors.blue,Colors.yellowAccent],
+              begin: Alignment.topLeft,
+              end: Alignment.topRight),
+              ),
+              ),
       ),
       body: TabBarView(
         controller: tabController,

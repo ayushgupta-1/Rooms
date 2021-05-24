@@ -32,14 +32,14 @@ class _HomeScreenState extends State<HomeScreen> {
         },
         items: [
           BottomNavigationBarItem(
-            title: Text("Video Call"),
+            label: Text("Video Call").toString(),
             icon: Icon(
               Icons.video_call,
               size: 32,
             ),
           ),
           BottomNavigationBarItem(
-            title: Text("Profile"),
+            label: Text("Profile").toString(),
             icon: Icon(
               Icons.person,
               size: 32,

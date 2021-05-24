@@ -116,10 +116,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   ),
                   child: CircleAvatar(
                       radius: 64,
-                      backgroundImage: new AssetImage("images/user.png")
-                      // NetworkImage(
-                      //     'https://www.pngitem.com/pimgs/m/146-1468479_my-profile-icon-blank-profile-picture-circle-hd.png'),
-                      ),
+                      backgroundImage: new AssetImage("images/user.png")),
                 ),
                 Center(
                   child: Column(
