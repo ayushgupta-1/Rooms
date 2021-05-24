@@ -1,6 +1,6 @@
 # Rooms App
 
-A new Flutter application.
+A video conferencing android & ios application.
 
 ## Getting Started
 
